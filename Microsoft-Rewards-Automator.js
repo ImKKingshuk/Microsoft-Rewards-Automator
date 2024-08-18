@@ -105,7 +105,7 @@
   container.style.fontFamily = "Arial, sans-serif";
 
   const title = document.createElement("h2");
-  title.textContent = "Bing Rewards Automator";
+  title.textContent = "Microsoft Rewards Automator";
   title.style.marginBottom = "20px";
   title.style.fontSize = "18px";
   title.style.color = "#333";
