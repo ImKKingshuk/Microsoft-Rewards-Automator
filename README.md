@@ -1,9 +1,9 @@
 <h1 align="center">Microsoft-Rewards-Automator</h1>
-<h3 align="center">v1.1</h3>
+<h3 align="center">v1.1.0</h3>
 
 **Microsoft-Rewards-Automator : Effortlessly Earn Bing Rewards Points** - Automate your daily Bing searches and maximize your Microsoft Rewards with ease! This powerful userscript handles random searches for you, ensuring you never miss out on your points. 🌟
 
-## What's New (v1.1)
+## What's New (v1.1.0)
 
 - **Minor Optimizations**: General improvements and Optimizations
 
